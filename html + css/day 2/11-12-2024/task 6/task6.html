@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Registration Form 2</title>
 </head>
-<body>
-    <h1>
-        Registration Form 
-    </h1>
 
+<body>
+
+    <h1>Registration Form</h1>
+    
     <form>
+
         <fieldset style="width: 500px; padding: 20px; border: 1px solid black; background-color: lightyellow;">
             <legend>personal details</legend>
 
@@ -18,35 +19,48 @@
 
             <label>First name:</label>
             <input type="text">
+
             <br>
             <br>
+
             <label>Last name:</label>
             <input type="text">
+
             <br>
             <br>
+
             <label>Email:</label>
             <input type="text">
+
             <br>
             <br>
-            <label>Gender</label>
-            <input type="radio" > male
-            <input type="radio"> femalel
+
+            <label for="Gender">Gender</label>
+            <input type="radio" name="Gender" value="Male"> Male 
+            <input type="radio" name="Gender" value="Femalel"> Femalel
+
             <br>
             <br>
         
-
         </fieldset>
+
         <fieldset style="width: 500px; padding: 20px; border: 1px solid black; background-color: lightyellow;">
             <legend>city</legend>
-            <label>city</label>
+
+        <label>city</label>
         <select>
         <option>Amman</option>
         <option>Jeresh</option>
         </select>
+
         <br>
         <br>
+
         <input type="submit" value="Sign UP">
+
         </fieldset>
+
     </form>
+    
 </body>
 </html>
