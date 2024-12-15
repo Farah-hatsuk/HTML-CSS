@@ -1,0 +1,42 @@
+.tabel-1{
+    border-style:solid;
+    border-color: black;
+    background-color: rgb(255, 254, 248);
+    margin-right: 30% ;
+    padding: 10px;
+}
+
+.tabel-2{
+    border-style:dashed;
+    border-color: black;
+    background-color:rgb(255, 254, 248) ;
+    margin-right: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+   
+}
+
+.red-border{
+    border-style: dashed;
+    border-color: red;
+    
+}
+
+.tabel-3{
+    border-style:solid;
+    border-color: black;
+    background-color: rgb(255, 254, 248);
+    margin-right: 30% ;
+    padding: 10px;
+}
+
+.orange{
+    background-color: rgba(255, 106, 0, 0.518);
+    font-weight: bold;
+}
+
+.yellow{
+    background-color: rgba(255, 255, 0, 0.575);
+    font-weight: bold;
+}

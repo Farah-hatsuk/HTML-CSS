@@ -1,0 +1,26 @@
+.h11{
+    color: #f7b740;
+    margin: 30px 5px;
+    font-size: 30;
+
+}
+
+.h12{
+    color: black;
+    font-weight: bold;
+    text-align: right;
+
+}
+
+.p1{
+    margin-left: 5px;
+    font-size: 17px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.p2{
+    font-size: 15px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+
+}
