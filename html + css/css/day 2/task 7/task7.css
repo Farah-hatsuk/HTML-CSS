@@ -1,0 +1,17 @@
+.box{
+    border: 4px dashed;
+    width: max-content;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.item{
+    border: 1px solid;
+    width: 200px;
+    height: 199px;
+    background-color: red;
+    
+}

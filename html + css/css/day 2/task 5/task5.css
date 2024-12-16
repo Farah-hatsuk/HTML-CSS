@@ -1,0 +1,17 @@
+.box{
+    border: 8px solid darkorange;
+    display: grid;
+    grid-template-columns: repeat(9 , 150px);
+    width: max-content;
+    height: 94vh;
+    
+}
+
+.item {
+   
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}

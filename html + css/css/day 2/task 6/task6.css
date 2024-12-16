@@ -1,0 +1,10 @@
+.Image{
+    background-image: url(./Screenshot\ 2024-12-16\ 235852.png);
+    background-size: contain;
+    width: 150px;
+    height: 500px;
+    right: 0;
+    top: 1;
+    position: fixed;
+    
+}

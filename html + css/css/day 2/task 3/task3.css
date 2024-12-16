@@ -1,0 +1,23 @@
+.p-1{
+    background-color: rgb(255, 168, 18);
+    color: white;
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-2{
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    display:flex;
+}
