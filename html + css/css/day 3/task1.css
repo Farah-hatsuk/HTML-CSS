@@ -1,0 +1,100 @@
+.header{
+    background-color: black;
+    background-image: url("./how-database-effects-the-website-design.jpg");    
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    opacity:color="black" 70% ;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 150px;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+
+
+}
+.p-1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-weight: bold;
+    color: white;
+}
+.botoom{
+    width: 100px;
+    height: 40px;
+    border: solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-top: 25px;
+    margin-left: 46%;
+
+    transition:all 2s;
+}
+.botoon:hover{
+    width: 200px;
+    height: 80px;
+    margin-top: 50px;
+    
+}
+
+.box{
+    display: grid;
+    grid-template-columns:33.33% 33.33% 33.33%;
+    justify-content: space-around;
+    align-content: space-between; 
+    align-items: center;
+
+    
+    
+    
+}
+
+.card{
+    background-color: white;
+    height: 600px;
+    width: 300px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+   
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.black{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer{
+    border: 2px solid; 
+    width: auto;
+    height: 75px;
+    background-color: black; 
+    color: white; 
+    text-align: center;
+    margin-top: -2px;
+}
