@@ -1,17 +1,24 @@
-.header{
-    background-color: black;
-    background-image: url("./how-database-effects-the-website-design.jpg");    
+
+*{
+    font-family: "Playfair Display", serif ;
+}
+
+
+.header {
+    background-color: rgb(61, 51, 51);
+    background-image: url("./how-database-effects-the-website-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-    opacity:color="black" 70% ;
+    width:auto;
+    opacity: color="black" 70%;
 
 }
 
-h1{
+h1 {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     padding-top: 150px;
     font-size: 50px;
     font-weight: bolder;
@@ -19,56 +26,61 @@ h1{
 
 
 }
-.p-1{
+
+.p-1 {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     font-weight: bold;
     color: white;
 }
-.botoom{
+
+.botoom {
     width: 100px;
     height: 40px;
-    border: solid black;
-    background-color: black;
+    border: solid rgb(61, 51, 51);
+    background-color: rgb(61, 51, 51);
     color: white;
     text-align: center;
     align-content: center;
     margin-top: 25px;
     margin-left: 46%;
-
-    transition:all 2s;
+    transition: 2s;
 }
-.botoon:hover{
+
+.botoom:hover {
     width: 200px;
     height: 80px;
     margin-top: 50px;
-    
 }
 
-.box{
+
+
+.box {
     display: grid;
-    grid-template-columns:33.33% 33.33% 33.33%;
+    grid-template-columns: 33.33% 33.33% 33.33%;
     justify-content: space-around;
-    align-content: space-between; 
+    align-content: space-between;
     align-items: center;
+    
 
-    
-    
-    
+
+
+
 }
 
-.card{
+.card {
     background-color: white;
-    height: 600px;
+    height: 470px;
     width: 300px;
     text-align: center;
     margin-left: 100px;
     margin-top: 25px;
-   
+    
+
 }
 
-.blue{
+.blue {
     background-color: blue;
     color: white;
     width: 50%;
@@ -78,8 +90,8 @@ h1{
     align-items: center;
 }
 
-.black{
-    background-color: black;
+.black {
+    background-color: rgb(61, 51, 51);
     color: white;
     width: 50%;
     height: 200px;
@@ -89,12 +101,26 @@ h1{
 
 }
 
-.footer{
-    border: 2px solid; 
+.footer {
+    border: 2px solid;
     width: auto;
     height: 75px;
-    background-color: black; 
-    color: white; 
+    background-color: black;
+    color: white;
     text-align: center;
     margin-top: -2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+}
+
+p {
+    padding: 10px;
 }
