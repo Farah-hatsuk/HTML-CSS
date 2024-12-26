@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "No Bills extra bold";
+    src: url(postnobillscolombo-extrabold.ttf);
+}
+
+
+
+header {
+
+    width: 100%;
+    background-color: #35736E;
+    height: 629.07px;
+}
+
+.logo {
+    font-family: "No Bills extra bold";
+    color: #FFD748;
+    float: left;
+    margin-left: 32.67px;
+    margin-top: 11px;
+}
+
+.logo h1 {
+    font-weight: 800;
+    line-height: 76.75px;
+    font-size: 51.33px;
+}
+
+.logo nav {
+    position: relative;
+
+}
+
+.logo nav h3 {
+    font-family: "Poppins";
+}
+
+.nev1 {
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    color: white;
+    gap: 10px;
+    top: 26px;
+    left: 706px;
+    margin-left: 21px;
+
+}
+
+.nev1 h2 {
+    margin: 17.74;
+    font-family: "Ubuntu", serif;
+    font-size: 18.67px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-left: 17.70px;
+}
+
+.icon {
+    float: right;
+    margin-top: 23px;
+    margin-right: 65px;
+}
+
+.header p {
+    font-family: "DM Serif Text";
+    color: white;
+    float: left;
+    margin-top: 221px;
+    margin-left: 92.4px;
+    line-height: 70.38px;
+    font-weight: 400;
+    font-size: 51.33px;
+    text-shadow: 0px 3.73px 3.73px #000000c4;
+    position: absolute;
+
+}
+
+.img {
+    position: relative;
+}
+
+.dots {
+    position: absolute;
+    height: 164.27px;
+    width: 242.67px;
+    top: 197.87px;
+    left: 1088.27px;
+}
+
+.couch {
+    position: absolute;
+    height: 542.53px;
+    width: 756px;
+    top: 126.93px;
+    left: 561.87px;
+}
+
+.btn {
+    border-radius: 28px;
+    width: 149.33px;
+    height: 46.67px;
+    color: black;
+    position: absolute;
+    top: 429.33px;
+}
+
+
+.card1 {
+    display: flex;
+    flex-direction: column;
+    width: 276.27px;
+    height: 269.6px;
+    top: 83.43px;
+    border-radius: 18.67px;
+    background-color: #35736E1A;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16.8px;
+
+}
+
+.product {
+    float: right;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 45px;
+    margin: 62px 65px;
+}
+
+.contant {
+
+    margin-bottom: 50px;
+}
+
+.cardimg {
+    width: 176.4px;
+    height: 229.21px;
+}
+
+.explore {
+    width: 276.27px;
+    margin-top: -102px;
+    transform: translate(-20px, 83px);
+}
+
+.explore h5 {
+    font-weight: 600;
+    font-size: 31.73px;
+    line-height: 47.6px;
+}
+
+#c1 {
+    box-shadow: 0px 3.73px 3.73px #000000c4;
+    ;
+}
+
+.pic {
+    float: right;
+    width: 480.5px;
+
+    height: 552.47px;
+    left: 777.47px;
+    border-radius: 9.33px;
+    margin-right: 120px;
+    position: re;
+
+}
+
+
+
+.ChooseUs {
+    float: left;
+}
+
+
+
+
+
+
+
+.four{
+    height: 200px;  
+    margin-top: 712px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
